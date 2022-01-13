@@ -1,5 +1,5 @@
 =================
-All about my work
+About my work
 =================
 
 .. toctree::
