@@ -15,7 +15,7 @@ Hardware
 
     This is the body of the sidebar.
 
-**This strongly-emphasised text** will usually appears in bold. *Emphasis*
+**This strongly text** will usually appears in bold. *Emphasis*
 usually appears in italics.
 
 * item
